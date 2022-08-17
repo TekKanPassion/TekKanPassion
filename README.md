@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TekKanPassion
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning azure
+- 👋 Hi, I’m Tech Can Passion (Tekkanpassion)
+- 👀 I’m passioante about technology (duh!)
+- 🌱 I’m currently learning new technologies!
 - 💞️ I’m looking to collaborate on cloud technologies
 - 📫 How to reach me ... tekkanpassion@gmail.com
 
